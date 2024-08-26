@@ -1,7 +1,5 @@
 ![My Profile](https://github.com/Nipuni100/Nipuni100/blob/main/Image/github.png?raw=true)  
-<p align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/96/57/71/360_F_496577169_kHSsM4tW3O1GkepahQlFXNyaRXlj83GV.jpg" width="100%" height="100%">
-</p>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
