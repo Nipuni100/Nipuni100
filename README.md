@@ -1,4 +1,3 @@
-![My Profile](https://github.com/Nipuni100/Nipuni100/blob/main/Image/github.png?raw=true)  
 <p align="center">
   <img src="https://t4.ftcdn.net/jpg/04/96/57/71/360_F_496577169_kHSsM4tW3O1GkepahQlFXNyaRXlj83GV.jpg" width="100%" height="100%">
 </p>
