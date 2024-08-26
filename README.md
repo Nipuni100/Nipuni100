@@ -3,7 +3,7 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hey+there!%F0%9F%91%8B+Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=70&lines=Hi+there!%F0%9F%91%8B+I+am+Nipuni+Jayathilake." alt="Typing SVG" /></a>
 
 ## About Me
 I'm Nipuni Jayathilake, a passionate **_Computer Science and Engineering_** undergraduate specializing *Data Science* at *University of Moratuwa*. 
