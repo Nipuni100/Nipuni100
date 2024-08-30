@@ -17,7 +17,23 @@ I have done some projects in:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nipuni100&label=Profile%20views&color=0e75b6&style=flat" alt="Nipuni100" /> </p>
 
 ## 🔭 Projects and Experience
+### [Vivado - Nano Processor](https://github.com/Nipuni100/Pintos)
+Worked on designing and implementing a nano processor using Vivado.
 
+### [Pintos OS](https://github.com/Nipuni100/Pintos)
+Developed and enhanced the Pintos operating system as part of a university project.
+
+### [Machine Learning - Regression Model](https://github.com/Nipuni100/ML_Regression_model)
+Created a machine learning model for regression analysis, focusing on predicting outcomes based on input features.
+
+### [Mobile App Development - Flutter](https://github.com/Nipuni100/Flutter)
+Developed a cross-platform mobile application using Flutter, focusing on user experience and performance optimization.
+
+### [Front-End Development - Passenger Counter App](https://github.com/Nipuni100/Passenger-counter-app)
+Built a passenger counter web application, using HTML, CSS, and JavaScript to create a responsive and interactive user interface.
+
+### [Full Stack Development - MedLink App](https://github.com/SithikaGuruge/MedLink)
+A System where it integrates all the medical services into a single platform. Build using Reactjs, Tailwind CSS , MongoDB and Nodejs.
 
 
 
