@@ -30,16 +30,17 @@ I have done some projects in:
 
 ## Github stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-     <br/>
-</details>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nipuni100&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Nipuni's GitHub stats"/>
+  </a>
+</p>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuni100&theme=radical&hide_langs_below=1" alt="Nipuni's top languages"/>
+  </a>
+</p>
 
 
 </details>
