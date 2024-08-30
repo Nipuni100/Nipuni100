@@ -72,8 +72,8 @@ A System where it integrates all the medical services into a single platform. Bu
 </details>
 
 
-<p align="left">
-   ## Languages and Tools:
+
+## Languages and Tools:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
