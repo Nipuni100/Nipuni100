@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">🚀 Data Science & Full-Stack Engineering | Cloud & AI Enthusiast</h1>
+<h1 align="center">🚀 Data Science & Engineering | Cloud & AI Enthusiast | Fullstack Development </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nipuni100&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
@@ -55,9 +55,14 @@ I focus on building **scalable AI systems**, **LLM-powered tools**, and **produc
 # 🚀 Projects
 
 ### 🔹 **Automatic Pseudo-code Grading Tool (FYP - Ongoing)**
-LLM-powered system to automatically grade student pseudocode and generate feedback.  
+LLM-powered system to automatically grade students' partially and fully written pseudocode answers to Algorithmic Design questions and provide a grading rationale.
+Deliverables:
+- Complete dataset with student written pseudocodes and the manual gradings
+- The LLm based framework to automate the pseudocode grading with a grading rationale
+- LMS plugin which will be the end goal priduct.
 📌 *Python • LLMs • Prompt Engineering • Dataset creation*
 
+🔗 Repo: https://github.com/21AutoGrad/AutoGrad
 ---
 
 ### 🔹 **E-Commerce Application (Microservices + Microfrontends)**
@@ -130,7 +135,9 @@ Scikit-Learn · Mediapipe · OpenCV · Hugging Face · FAISS
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nipuni100&show_icons=true&theme=radical&count_private=true" />
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Nipuni100&show_icons=true&theme=radical&line_height=27&count_private=true" 
+       alt="Nipuni GitHub stats"/>
 </p>
 
 <p align="center">
@@ -153,29 +160,60 @@ Scikit-Learn · Mediapipe · OpenCV · Hugging Face · FAISS
 
 <p align="left">
 
+   <!-- Programming Languages -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+
+  <!-- Frontend -->
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
   <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" width="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40"/></a>
-  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/></a>
+
+  <!-- Mobile -->
   <a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/vivado.png?raw=true" width="60"/></a>
-  <a href="https://www.canva.com/"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/1656733637logo-canva-png.png?raw=true" width="40"/></a>
+
+  <!-- Databases and Data Warehousing-->
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+  <a href="https://aws.amazon.com/redshift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
+  <a href="https://www.snowflake.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="40"/></a>
+
+  <!-- ML & AI -->
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+  <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" width="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></a>
+
+  <!-- Cloud Platforms -->
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
 
+  <!-- Tools & Frameworks -->
+  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
+  <a href="https://single-spa.js.org/"><img src="https://single-spa.js.org/img/logo-white-bgblue.svg" width="40"/></a>
+  <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40"/></a>
+
+  <!-- DevOps -->
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://podman.io/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/podman.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+
+  <!-- Misc -->
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40"/></a>
+  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/></a>
+  <a href="https://www.canva.com/"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/1656733637logo-canva-png.png?raw=true" width="40"/></a>
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://github.com/PrabathBK/PrabathBK/blob/main/Image/vivado.png?raw=true" width="60"/></a>
 </p>
 
 ---
