@@ -31,16 +31,15 @@ I focus on building **scalable AI systems**, **LLM-powered tools**, and **produc
 - 💬 Ask me about **Python, ML/DL, AWS, React, PostgreSQL, Spring Boot, Data Engineering**
 - 🤖 Currently working on: **LLM-powered Pseudocode Auto-Grading System (FYP)**
 - ☁ Expanding cloud knowledge in **AWS + GCP + Snowflake**
-- ⚡ Fun fact: *I turn coffee into vector embeddings and SQL queries.*
 
-📧 **Email:** nipunijayathilake@gmail.com  
-🌐 **Portfolio:** *(Add your link here if you want)*
+
+📧 **Email:** nipuni.21@cse.mrt.ac.lk 
 
 ---
 
 ## 🔗 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/nipuni-jayathilake-8aa628245">
+  <a href="https://linkedin.com/in/nipuni-jayathilake">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/nipuni210257f">
@@ -50,21 +49,6 @@ I focus on building **scalable AI systems**, **LLM-powered tools**, and **produc
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-
-## 👩‍💻 About Me
-
-I’m **Nipuni Jayathilake**, an undergraduate in **Computer Science & Engineering** specializing in **Data Science**.
-
-My interests span across:
-- **Machine Learning & Deep Learning**
-- **Data Engineering & Cloud Technologies**
-- **LLM-based Systems & AI Applications**
-- **Full-Stack and Mobile App Development**
-
-I love building meaningful, scalable, data-driven systems.
 
 ---
 
